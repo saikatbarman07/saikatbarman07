@@ -3,8 +3,11 @@
 
 
 ## 🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-Coming_Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.s_ai_ka_t/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-barman-944b463b2/)
+
 
 
 # 💻 Tech Stack:
